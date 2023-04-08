@@ -4,6 +4,7 @@ com\ProductDetaills\page\ProductResults.class
 com\shoppingCart\postive\Verify_Product_count_in_shopping_cart.class
 Child.class
 com\shoppingCart\postive\TotalProductsIn_shoppingCart.class
+SingleFile.class
 LoginPage.class
 com\dynamic\webtable\Maximum_valueFromTable.class
 Parent.class
